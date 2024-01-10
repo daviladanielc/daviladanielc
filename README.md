@@ -6,6 +6,7 @@
 - 👊🏻 Member of WPPConnect Team <a href="https://github.com/wppconnect-team" target="_blank">WPPConnect</a>
 - 🙋🏻‍♂️ I'm Software Developer, specialized in Delphi.
 - 🆓 I love Open Source projects, check out my repositories.
+- 🙏🏼 I believe that Delphi can do awesome things.
 
 ### Connect with me:
 
