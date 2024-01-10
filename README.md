@@ -18,7 +18,7 @@
 
 <ul>
     <li><a href="https://github.com/daviladanielc/Delphi_TagEditor">Delphi_TagEditor</a></li>
-    <li><a href="https://github.com/daviladanielc/Delphi-Garbage-Collector">Delphi-Garbage-Collecto</a></li>
+    <li><a href="https://github.com/daviladanielc/Delphi-Garbage-Collector">Delphi-Garbage-Collector</a></li>
     <li><a href="https://github.com/daviladanielc/Delphi-Captcha-Generator">Delphi-Captcha-Generator</a></li>
     <li><a href="https://github.com/daviladanielc/DelphiCacheControl">DelphiCacheControl</a></li>
 </ul>
