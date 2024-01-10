@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 <br>
 
