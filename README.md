@@ -5,7 +5,7 @@
 - 👨‍💻 I am a contributor to the project <a href="https://github.com/wppconnect-team/WPP4Delphi" target="_blank">WPP4Delphi</a>
 - 👊🏻 Member of WPPConnect Team <a href="https://github.com/wppconnect-team" target="_blank">WPPConnect</a>
 - 🙋🏻‍♂️ I'm Software Developer, specialized in Delphi.
-- 🆓 I love Open Source projects, check my repositories.
+- 🆓 I love Open Source projects, check out my repositories.
 
 ### Connect with me:
 
