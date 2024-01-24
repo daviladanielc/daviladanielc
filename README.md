@@ -40,6 +40,12 @@
 
 ---
 
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daviladanielc&show_icons=true&hide_border=true" />
+<a href="https://github.com/daviladanielc/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daviladanielc" />
+</a>
+<a href="https://github.com/daviladanielc/Delphi_TagEditor">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviladanielc&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+---
 [linkedin]: https://br.linkedin.com/in/daniel-c-7350bb71
