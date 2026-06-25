@@ -18,6 +18,7 @@
 
 <ul>
     <li><a href="https://github.com/daviladanielc/DCollections">DCollections - Reduce Delphi Code bloat</a></li>
+    <li><a href="https://github.com/daviladanielc/Delphi-TClassAutoFree">Delphi-TClassAutoFree</a></li>
     <li><a href="https://github.com/daviladanielc/Delphi_TagEditor">Delphi_TagEditor</a></li>
     <li><a href="https://github.com/daviladanielc/Delphi-Garbage-Collector">Delphi-Garbage-Collector</a></li>
     <li><a href="https://github.com/daviladanielc/Delphi-WindowsServiceUtils">Delphi-WindowsServiceUtils</a></li>
