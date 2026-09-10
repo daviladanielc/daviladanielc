@@ -37,17 +37,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png.webp" />
 
-<br />
-<br />
-
----
-
-<a href="https://github.com/daviladanielc/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daviladanielc" />
-</a>
-<a href="https://github.com/daviladanielc/Delphi_TagEditor">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviladanielc&layout=compact&langs_count=8&card_width=320" />
-</a>
+<br/>
+<br/>
 
 ---
 [linkedin]: https://br.linkedin.com/in/daniel-c-7350bb71
